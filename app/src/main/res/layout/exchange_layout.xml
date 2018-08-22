@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/youjiaowang_bt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="幼教网"
+            android:background="@drawable/youjiao" />
+        <Button
+            android:id="@+id/taipingyang_bt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="太平洋亲子网"
+            android:background="@drawable/taipingyang" />
+        <Button
+            android:id="@+id/zhongguoertong_bt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="中国儿童资源网"
+            android:background="@drawable/zhongguoertong" />
+        <EditText
+            android:id="@+id/input_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:hint="我来说两句"/>
+        <Button
+            android:id="@+id/send_bt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="发送"/>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

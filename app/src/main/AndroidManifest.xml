@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.intelligent_children_platform">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".indenx.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".indenx.Register" />
+        <activity android:name=".indenx.Verification" />
+        <activity android:name=".indenx.RetrievePassword" />
+        <activity android:name=".indenx.ResetPassword" />
+        <activity android:name=".indenx.Indenx" />
+        <activity android:name=".indenx.function.Medical_function" />
+        <activity android:name=".indenx.function.Education_function" />
+        <activity android:name=".indenx.detail.TangPoem_detail" />
+        <activity android:name=".indenx.detail.ChineseWord_detail" />
+        <activity android:name=".indenx.detail.English_detail"/>
+        <activity android:name=".indenx.detail.Story_detail"/>
+        <activity android:name=".indenx.detail.Shouzhudaitu_detail"/>
+        <activity android:name=".indenx.detail.Maiduhuanzhu_detail"/>
+        <activity android:name=".indenx.detail.Simaguang_detail"/>
+        <activity android:name=".indenx.detail.SilkDatabase_detail"/>
+        <activity android:name=".indenx.detail.Fare_detail" />
+        <activity android:name=".indenx.detail.Kesou_detail"/>
+        <activity android:name=".indenx.detail.Fuxie_detail"/>
+        <activity android:name=".indenx.detail.Outu_detail"/>
+        <activity android:name=".indenx.detail.Avoid_ganmao"/>
+        <activity android:name=".indenx.detail.Daily_detail"/>
+        <activity android:name=".indenx.detail.Love_eating"/>
+        <activity android:name=".indenx.detail.Protect_ear"/>
+        <activity android:name=".indenx.detail.Drug_detail"/>
+        <activity android:name=".indenx.detail.Yongyaowuqu"/>
+        <activity android:name=".indenx.detail.Yongyaozhinan"/>
+        <activity android:name=".indenx.detail.Yongyaocelue"/>
+        <activity android:name=".indenx.function.Histogram_function"/>
+        <activity android:name=".indenx.other_model.Jingdong_detail"/>
+        <activity android:name=".indenx.other_model.Taobao_detail"/>
+        <activity android:name=".indenx.function.Shopping_function"/>
+        <activity android:name=".indenx.function.Exchange_function"/>
+        <activity android:name=".indenx.other_model.Youjiao"/>
+        <activity android:name=".indenx.other_model.Pc"/>
+        <activity android:name=".indenx.other_model.Tom"/>
+        <activity android:name=".indenx.other_model.Yinpin"/>
+        <activity android:name=".indenx.other_model.Youxi"/>
+        <activity android:name=".indenx.function.Amusement_function"/>
+        <activity android:name=".indenx.other_model.Shipin"/>
+
+    </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+</manifest>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="如果呕吐量不是很大，宝宝的体重增加正常，不影响睡眠，白天玩耍精神状况没什么异常，就无
+需担心，多喝点水就好了。\n
+如果宝宝发生喷射状呕吐，伴有发热现状，还不停的哭闹，情绪反复无常，这时就要立即就医。\n
+如果宝宝反复出现呕吐，身体内的水分就会大量流失，这时要及时补充水分，防止出现脱水现状
+。要少量多次的给宝宝喝水，避免呕吐，一旦宝宝出现不爱喝水，呕吐后很疲惫的样子，很可能
+是脱水的现象，要及时送往医院。"
+        android:textColor="#FF0000"
+        android:textSize="16sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="家庭护理\n【竖立抱】
+ 如果宝宝感觉恶心而且又哭闹，就竖立着抱拿着玩具哄他玩，因为竖着抱宝宝会感觉比较舒服，
+千万不要来回摇晃，以免呕吐。\n
+【喝红糖盐水】
+在温水里放点红糖和盐，给宝宝喝，有助于锁住体内的水分不会很快流失，防止脱水现象。饮水
+一定要少量多次。\n
+【尽量不要喂消炎药】
+在家宝妈可以给孩子喂点调理肠胃，助消化的药，尽量不要喂消炎药，因为消炎药是抗生素药，
+会打乱肠道菌群，引起腹泻。只要多喝点水，很快就会恢复好的。\n
+【侧面睡】
+晚上睡觉时，尽量让宝宝侧面睡，这样可以防止呕吐物阻塞呼吸道，为了宝宝的健康，做妈妈的
+要辛苦点，晚上不要睡得太熟哦。\n
+【延长喂奶间隔】
+宝宝在呕吐期间，肠胃很脆弱，可以延长平时的喂奶间隔，如果一天喂5次奶，缩短为一天3次，
+这样可以给胃减轻一定的负担，给胃腾出一定的时间。\n
+【多喂米粥】
+生病期间，少喂奶，多喝点米粥易消化的食物，米粥养胃，可以使身体尽快的恢复，牛奶不易消
+化，鸡蛋含蛋白质高，生病期间尽量不要吃，多吃点流质食物就可以了。宝宝在呕吐期间，肠胃
+很脆弱，可以延长平时的喂奶间隔，如果一天喂5次奶，缩短为一天3次，这样可以给胃减轻一定
+的负担，给胃腾出一定的时间。"
+        android:textColor="#000000"
+        android:lineSpacingMultiplier="1.2"/>
+</LinearLayout>
+</android.support.constraint.ConstraintLayout>

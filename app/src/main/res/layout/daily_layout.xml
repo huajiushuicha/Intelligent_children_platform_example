@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical">
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:textColor="#000000"
+         android:text="
+注意几大恶习\n
+　恶习一：抠鼻子 最糟糕的是：看着孩子抠完鼻子再吃手。如何去制止:转移孩子的注意力通常是一个有效的办法。并且，要向孩子解释抠鼻子的坏处是会使细菌传播。另外，父母需要随身带着纸巾。防患于未然：尽量保持周围空气潮湿,准备一些凡士林油，或者其他滴鼻剂，当孩子鼻孔发干的时候，就给他使用一次。如果气候干燥，那么就在孩子的房间准备一个加湿器，以免鼻黏膜经常处于干燥的状态。\n
+　恶习二：喝洗澡水 最糟糕的是：带有浴液的洗澡水,如果孩子喝了，那么他很可能要拉肚子。如何去制止：可以给他一些洗澡时玩的玩具。如果他已经3岁或者更大一些了，可以在他洗澡的时候告诉他浴盆里的这些黏性泡泡到底是些什么东西，当他明白了，也就不再喝着玩了。防患于未然：及时给孩子一杯干净的水让他喝。\n
+  恶习三：咳嗽或者打喷嚏的时候不捂嘴 最糟糕的是：感冒或其他更严重的疾病，比如肺炎和脑膜炎，都是因为喷出的唾液颗粒中含有病毒，从而传播开来的。如何去制止：首先，父母以身作则，而且，父母还要不厌其烦地及时提醒孩子这么做。如果他是直接用手捂嘴，之后还要督促他把手洗干净。防患于未然：为了避免病毒的传播，告诉孩子尽量不用手去捂着嘴，可以用面巾纸或手绢。如果可手头上没有这些东西，弯曲胳膊捂着鼻子和嘴也行。\n
+  恶习四：抠伤疤 最糟糕的是：小脏手去抠伤疤，可能导致伤口细菌感染。而且还会留下疤痕。如何去制止：先在孩子的伤口上涂抹好消炎药膏，然后贴上创可贴，使孩子双手都接触不到伤口。防患于未然：如果看见孩子正在挠自己的皮肤，可以和他玩拍手唱歌的游戏，以转移他的注意力。\n
+　恶习五：洗手健忘症 最糟糕的是：经常不洗手的孩子，会增加感染疾病的机会，如蛲虫病、痢疾和甲型肝炎等。如何去制止：父母需要经常耐心地给孩子提个醒，之外，还可以做一些有趣的图片，作为视觉提醒。防患于未然：为了使孩子的双手保持清洁，父母需要随身带着消毒湿纸巾，用来给孩子擦手。\n
+　恶习六：啃指甲和抠指甲 最糟糕的是：抠指甲很可能使孩子指尖或指甲两边的表皮流血，甚至引起感染。用嘴去啃那些脏指甲，更容易导致细菌感染。如何去制止：多数孩子是在感觉无聊的时候才啃指甲玩,可以让他听听音乐，做做游戏.防患于未然：频繁的提醒不可少。此外，如果妈妈不反对给自己的小女儿修指甲，那么就给她修饰得漂亮一点。当看见她啃指甲的时候，马上提醒她指甲看起来有多么漂亮，她肯定就不再啃了。\n"/>
+     <ListView
+         android:id="@+id/daily_listview"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:minHeight="100dp"/>
+ </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

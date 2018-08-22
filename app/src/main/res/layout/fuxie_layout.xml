@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FF0000"
+        android:text="以下几点帮助减少宝宝腹泻\n
+    1、坚持母乳喂养\n
+　　2、吃易消化的食物\n
+　　3、不喝凉水、不吃剩饭剩菜\n
+　　4、勤洗手"
+        android:textSize="18sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="？宝宝腹泻了怎么办？\n
+    1为了预防宝宝脱水，我们要给宝宝比平时更多的液体。\n
+　　很多妈妈会问宝宝拉肚子能喝什么不能喝什么？能喝的液体首先推荐的是口服补液盐，如果家里没有口服补液盐，可以做一些米汤、菜汤、鸡汤，在里面放点盐，如果上述这些都没有，那也可以喝点水、酸奶、新鲜的椰汁、淡茶水、不含糖的新鲜果汁等。
+　　关于补液的量给多少，建议每次宝宝排稀便之后都要给他喝一定的液体：\n
+　　＜6个月的宝宝，每次喝50ml；\n
+　　6个月-2岁的宝宝，每次喝100ml；\n
+　　2岁-10岁宝宝，每次喝150ml；\n
+　　10岁以上能喝多少喝多少，直到腹泻停止。\n
+    2为了预防营养不良应继续喂养宝宝\n
+　　一般而言，适合腹泻宝宝的食物和健康宝宝所需要的是一样的。正在喂养母乳的宝宝继续按需哺乳，鼓励增加哺乳次数；吃配方奶的宝宝需要至少3个小时喂一次，其它的食物比如：瘦肉、米饭、馒头、酸奶这些都可以吃，并且我们可以给每份食物加一点植物油。还有要多吃一些含钾的食物：香蕉、新鲜的椰汁、新鲜的果汁。大概34个小时喂一次，并且少量多次的喂养比大量少次的喂养耐受性更佳。腹泻的孩子不能一次性喂很多，那样会容易呕吐。\n
+    3哪些食物不能吃？\n
+　　不能吃的包括太肥或者太油的食物，因为这些食物很难消化；不能喝运动功能型饮料，因为含糖量比较高，而且电解质不太适合宝宝；也要拒绝外面售卖的果汁雪碧、可乐、以及平时做的苹果汁、梨汁、西梅汁这些含纤维素比较丰富的食物，因为宝宝吃完之后有可能会加重腹泻。"
+        android:lineSpacingMultiplier="1.2"/>
+</LinearLayout>
+</android.support.constraint.ConstraintLayout>

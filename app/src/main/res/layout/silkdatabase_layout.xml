@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".indenx.detail.SilkDatabase_detail">
+
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:text="1、 尽可能白天而且上午看病。
+白天医院里所有诊室都开放，门诊种类非常齐全，特别是专科门诊（血尿、哮喘、癫痫等，专业性很强）和特需门诊（排队少，咨询时间长）可以迅速满足要求。\n
+2、什么情况下必须看急诊
+惊厥、腹痛，喘息，胸闷，气急、持续呕吐，面色异常、异物吸入，严重外伤，误服药物，高热（持续39.5度以上口服退热药物不能降温，或发热不足39.5℃但精神状况不好）。新生儿6个月以下小婴儿身体不适要及时就诊。\n
+3、夜间发生以下情况怎么办
+发热：用尽一切退热措施，如物理降温，服用美林等，观察孩子的精神状态。\n
+咳嗽：两种情况要急诊，异物吸入后的强烈呛咳，犬吠一样的咳嗽。\n
+呕吐：禁食观察，伴有发热，精神靡软需就诊。\n
+腹泻：不能口服，或呕吐频繁，小便减少和精神萎软需要急诊\n"
+            android:lineSpacingMultiplier="1.2"
+            android:textSize="18sp"/>
+        <ListView
+            android:id="@+id/silkdatabase_listview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>

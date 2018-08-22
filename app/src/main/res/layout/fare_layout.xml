@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/fare_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="★小儿发热护理及治疗策略★\n
+　　1.保持适宜的环境。发烧时小儿最好卧床休息，居室内经常通风换气，但不要有对流风，室温宜保持在20-22度，湿度宜保持在60-65%。对于夏季热引起的发热，通过使用空调或电扇降低环境温度，就可以帮助小儿降下体温。\n
+　　2.注意观察孩子是否发热。当怀疑小儿发热时，应该马上用体温计测量体温，20分钟后再测量1次，并将测量结果记录下来。家长也可以用自己的嘴唇吻一下孩子的额头，或在喂奶时观察孩子含乳头是否有灼热感。\n
+　　3.必要时使用药物降温。对于不宜使用酒精擦浴的新生儿、体弱儿，当体温超过了39度时，可以在医生指导下服用一些安全的退热药，如百服咛、美林等，也可在小儿前额贴一些有助于退热的贴剂，如一贴凉。\n
+　　4.采取物理降温。有些小儿虽在服用退热药后暂时体温下降，但药效一过马上升高。这时，可以采用物理降温的方法，如洗温水澡，水温要比体温低3度左右，每次15分钟左右，每天2-3次。也可采用酒精擦浴，即用纱布或毛巾蘸上30-35%的酒精擦拭小儿的颈部、腋窝、腹股沟及大腿的内侧等部位。但在擦浴时不要过多暴露，避免擦前胸、腹部以免小儿着凉。\n
+　　5.多给小儿喝水。发热会使小儿体内失去很多水分，为了防止身体脱水，注意给小儿多喝水或果汁，这样既可为身体补充水分，又有助于降温。但也不要饮用过量，以免引起水中毒。保持每两小时能排出一次很清的小便，加之尿色不深不黄、眼窝不凹、唾液充足，说明水分补充已足。\n
+　　6.进食清淡易消化食物。小儿发热时消化功能减弱，饮食宜清淡易消化，多吃半流质或流质食物，如牛奶、稀饭、蛋羹、面片、面条等，不宜吃油腻、高脂肪或奶油食品等。如果小儿食欲不佳，不要强迫进食，以免引起呕吐。\n"/>
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:textColor="#FF0000"
+       android:text="　应带小儿去医院的六个指征\n
+　　1.新生儿或不足6个月的小儿发热。\n
+　　2.体温在39-40度以上\n
+　　3.发热同时伴有皮疹\n
+　　4.小儿以往有曾因发热而抽风或有家庭高热惊厥史\n
+　　5.发热已经超过24小时，采取物理降温后体温一直未下降\n
+　　6.小儿哭闹不停、烦躁不安、反应差、高烧不退、错睡不醒。\n" />
+</LinearLayout>
+</android.support.constraint.ConstraintLayout>

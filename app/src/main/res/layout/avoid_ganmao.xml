@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:lineSpacingMultiplier="1.2"
+        android:text="小宝宝们远离感冒 必备这五招\n
+1987年国内儿科界制定反复呼吸道感染儿童(复感儿)诊断标准是：0～2岁宝宝每年上感7次，下感(包括支气管炎、哮喘和肺炎)3次。3～5岁宝宝每年上感6次，下感2次。\n
+第1招：吃好 足够的营养是保证宝宝生长发育和健康的先决条件。大力提倡母乳喂养。让宝宝吃够母乳，延长断奶时间至生后第二年。母乳中含有大量免疫活性物质和抗体，能保护宝宝免受多种病毒和细菌感染。宝宝长到4～6月时逐渐添加辅食。注意宝宝的均衡营养，如牛奶、肉类、蛋类、鱼类、新鲜蔬菜和水果等;养成良好的饮食习惯，做到按时进餐，不挑食、不偏食。平时给大点的宝宝多吃高蛋白饮食。如牛奶、鸡蛋、猪肝及瘦肉末等，特别注意在饮食中多补充铁剂、钙剂和维生素A。\n
+第2招：穿暖 宝宝衣着随季节变化以及活动出汗情况随时增减。寒冷季节让宝宝多穿衣服，摸上去手脚温暖就行，被盖比成人稍厚就好。气候变化时，衣服要勤穿勤脱，不要只加不减，特别是冬季降温时不要一下穿得过多，一般比你多穿一件就够。如果宝宝活动时出了汗，要及时用毛巾擦干;入睡后出汗多的宝宝，最好在前后胸垫上小毛巾防止汗湿内衣。减少出汗、及时擦汗，是防止宝宝受凉的重要措施。\n
+第3招：睡饱 一般说来，婴儿每天需要睡眠15～16小时，幼儿每天12～14小时，学龄前儿童每天10～12小时。同时为宝宝创造良好的睡眠环境，以保证睡眠质量。\n
+第4招：体格锻炼 这是预防急性呼吸道感染的最好方法。宝宝满月后应尽早户外活动，晴天多晒太阳和呼吸新鲜空气。每天坚持做体操、跑步、跳绳、玩游戏、温水浴，户外活动不少于一小时。在家做一些力所能及的事情，如叠被子、扫地、洗碗等。\n
+第5招：免疫接种  按时免疫接种，能有效防治各种小儿传染病。如果在近期与麻疹、水痘、甲型肝炎等传染病人密切接触后，尽早注射一针丙种球蛋白，可以预防发病或减轻症状。"/>
+</LinearLayout>
+</android.support.constraint.ConstraintLayout>

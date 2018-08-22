@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FF0000"
+        android:text="1.如果小儿只是偶尔咳嗽几声，不需要进行特殊处理。如果咳嗽频繁并出现其他症状，如气促、发烧等，则需及早去医院就诊.\n
+2.如果是突发性呛咳，很可能是小儿将食物或异物吸入咽喉，但还能呼吸，能讲话或哭出声。这时父母要鼓励小儿咳嗽，千万别用手在其嘴里乱抠，以防异物越抠越深，以致把气道完全堵死。\n
+如果没有咳出东西，小儿反复咳嗽或气喘,说明异物已到达呼吸道，立即送小儿去医院及时取出异物。\n
+如果小儿面色发青，不能呼吸，父母不要惊慌失措，要记着孩子的生命就在你手中，这时不论是送医院还是去请医生只会延误时间，失去抢救的宝贵时机。应马上叫其他人去请求医疗急救，立即开始自救行动。"
+        android:lineSpacingMultiplier="1.2"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="咳嗽护理的健康提示\n
+　　1、可口、清淡、营养的饮食\n
+　　照顾任何患病的孩子，通用的原则是可口、清淡、有营养的饮食。因为刺激性食物会加重咳嗽，应该少吃咸、酸、辣等味道较重食物。给予温热的饮食，面条、片汤都很好。不吃凉的食品饮料，远离冰淇淋、雪糕、冰汽水。咳嗽时急速气流从呼吸道黏膜带走水分，炎症造成黏膜缺水，要注意给患儿补充液体。如果发烧，由于出汗造成的体液消耗增加，因此，要多喝水，多吃水果。\n
+　　在睡前让宝宝多喝一些温牛奶、米汤或者温开水，这些东西有助于粘痰变稀，可以帮助痰液有效咯出。\n
+　　2、注意宝宝卫生清洁\n
+　　就是在春季花粉多的季节里，尽量让孩子远离有花粉的地方，尤其是早上5点到上午10点这个花粉最高值期间，一定要做好防护措施，而平时也多注意宝宝的清洁工作，多洗澡勤洗头。宝宝如果有毛绒玩具，这个时期就不要再让宝宝玩了，同时对于猫狗等长毛动物也应该远离.并且保证家里的清洁，每周1次彻底对家里进行一次大扫除。\n
+　　3、咳嗽时别着凉\n
+　　当他正在咳嗽时，要确保他不会着凉，否则可能引起支气管炎。若在室内，关闭空调冷风或漏风的门若在户外，找个避风的地方，或者大人用身体挡住冷风。\n
+　　4、不要擅自服药\n
+　　对于已经患病的宝宝，爸爸妈妈不要自己擅自给宝宝服用一些止咳类药物，一定要去医院诊断过之后，让医生诊断是属于普通咳嗽还是过敏性咳嗽，一般性咳嗽的止咳药对过敏性咳嗽没有效果。\n"/>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/shouzhudaitu_iv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/shouzhudaitu"/>
+    <TextView
+        android:id="@+id/shouzhudaitu_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="宋国有个农夫正在田里翻土。突然，他看见有一只野兔从旁边的草丛里慌慌张张地窜出来，一头撞在田边的树墩子上，便倒在那儿一动也不动了。农民走过去一看：兔子死了。因为它奔跑的速度太快，把脖子都撞折（shé）了。农民高兴极了，他一点力气没花，就白捡了一只又肥又大的野兔。他心想；要是天天都能捡到野兔，日子就好过了。从此，他再也不肯出力气种地了。每天，他把锄头放在身边，就躺在树墩子跟前，等待着第二只、第三只野兔自己撞到这树墩子上来。世上哪有那么多便宜事啊。农民当然没有再捡到撞死的野兔，而他的田地却荒芜了。"
+        android:textSize="18sp"
+        android:textColor="#000000"/>
+
+</LinearLayout>
+</android.support.constraint.ConstraintLayout>

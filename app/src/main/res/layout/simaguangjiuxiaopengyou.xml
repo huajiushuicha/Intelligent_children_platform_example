@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/simaguang_iv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/simaguan"/>
+        <TextView
+            android:id="@+id/simaguang_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="有一次，他跟小伙伴们在后院里玩耍。有个小孩爬到大缸上玩，失足掉到缸里的水中。别的孩子们一见出了事，放弃他都跑了。司马光却急中生智，从地上捡起一块大石头，使劲向水缸击去，水涌出来，小孩也得救了。"
+            android:textSize="24sp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

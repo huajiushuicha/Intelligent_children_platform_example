@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/maiduhuanzhu_iv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/maiduhuanzhu"/>
+        <TextView
+            android:id="@+id/maiduhuanzhu_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="有一个楚国人卖他的珠子给郑国人，用木兰做了一个匣子，用桂椒熏染它，用珠子和宝玉连结它，用美玉装饰它，用翡翠点缀它。郑国人买了他的匣子却退还了他的珍珠。这可以说是善于卖匣子了，不能说是善于卖珍珠。"
+            android:textSize="24sp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
